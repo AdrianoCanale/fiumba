@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+
+nav{
+	background: #000;
+}
+
+.menu{
+	text-align: center ;
+margin: 0;
+}
+.menu li{
+	display: inline-block;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+.menu a:hover{
+	background: #9b9b9b;
+	font-size: 40px;
+}
+.azul{
+	background: #0000ff;
+	text-align: center;
+	color: #ffffff;
+	overflow: hidden;
+}
+.imagen{
+	height: 800px;
+	background: url(./mqdefault.jpg);
+}
